@@ -169,14 +169,6 @@ The system maintains proper normalization through:
 - Comprehensive constraint management for data integrity
 - Optimized indexing strategy for gaming workloads
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/enhancement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/enhancement`)
-5. Create a Pull Request
-
 ### Development Guidelines
 - Follow PostgreSQL best practices
 - Maintain referential integrity
