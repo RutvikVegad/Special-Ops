@@ -38,8 +38,7 @@ The Special-Ops database system simulates a complete gaming ecosystem with:
 ## 🚀 Quick Start
 
 ### Prerequisites
-- PostgreSQL 12+ installed
-- Database client (pgAdmin, psql, or similar)
+- Database client (pgAdmin, or similar)
 - Basic SQL knowledge
 
 ### Installation
@@ -184,10 +183,6 @@ The system maintains proper normalization through:
 - Document all schema changes
 - Include test data for new features
 - Optimize queries for performance
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🎖️ Acknowledgments
 
